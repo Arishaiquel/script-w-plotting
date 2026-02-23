@@ -1,2 +1,3 @@
-# script-w-plotting
+# Hedging strategy backtest 
 u can edit line 1-59, the rest is plotting and stats
+hedge using Short QQQ during risk-on regimes, identified by risk1,rsik2,...
