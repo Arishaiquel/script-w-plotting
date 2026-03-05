@@ -1,3 +1,3 @@
 # Hedging strategy backtest 
-u can edit line 1-59, the rest is plotting and stats.
-Model will hedge using Short QQQ during risk-on regimes, identified by risk1,rsik2,...
+For changing/adding more rules, pls edit line 1-59, the rest is graph plotting and statistics.
+Model will hedge  Short QQQ during risk-on regimes, identified by risk1,risk2,etc.
